@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrajwalBelur
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Master of Computer Applications
+- 🌱 I’m currently pursuing Master of Computer Applications
 - 📫 How to reach me ... drop a message on prajwalbelur.ec@gmail.com
 
 <!---
